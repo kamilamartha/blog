@@ -1,0 +1,15 @@
+
+
+h1{
+    color: rgb(152, 57, 203);
+    display: flex;
+    justify-content: left;
+    font-family:initial;
+    font-size: 65px;
+    text-shadow: 1px 1px rgb(132, 63, 132);
+    margin: 25px;
+}
+.meunome > hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

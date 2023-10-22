@@ -1,0 +1,22 @@
+
+h2{
+    color: white;
+    margin-right: 130;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+.imagem1{
+    width: 25%;
+}
+.imagem2{
+    width: 25%;
+}
+
+.alinhamentoicones{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    
+   
+}

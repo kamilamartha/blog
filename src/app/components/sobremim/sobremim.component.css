@@ -1,0 +1,23 @@
+h2{
+    color: white;
+    padding-top: 25px;
+    margin-left: 200px;
+    padding-bottom: 25px;
+    
+}
+h3{
+    color:  rgb(255, 255, 255);
+    margin: 15px;
+    text-align: justify;
+    padding-right: 40%;
+    font-size: 20px;
+}
+.foto{
+    margin-left: 160px;
+    padding-bottom: 25px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-radius: 5px;
+    border-width: 5px;
+    box-shadow: 5px 5px rgb(172, 34, 227);
+}
